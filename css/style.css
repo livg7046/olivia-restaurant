@@ -1,0 +1,16 @@
+/*
+primary: #ff43dd
+p-light: #ff7eff
+p-dark: #c800ab
+secondary: #6dff7c
+s-light: #a5ffad
+#2acb4c
+*/
+body {
+    background-color: #a5ffad;
+    font-family: 'Crimson Text', serif;
+}
+
+h1, h2 {
+    font-family: 'Permanent Marker', cursive;
+}
